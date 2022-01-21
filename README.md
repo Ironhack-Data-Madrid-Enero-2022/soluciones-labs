@@ -1,5 +1,5 @@
 # Soluciones labs
-![img_solutions](www.imagen.com)
+![img_solutions](https://github.com/Ironhack-Data-Madrid-Enero-2022/soluciones-labs/blob/main/solution.jpeg)
 
 En este repositorio irás encontrando las soluciones propuestas para los labs que vais haciendo durante el bootcamp.
 
