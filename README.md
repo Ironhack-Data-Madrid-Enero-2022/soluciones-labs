@@ -5,4 +5,11 @@ En este repositorio irás encontrando las soluciones propuestas para los labs qu
 
 Las soluciones no son únicas, es decir, una de las maravillas del código es que podemos usar nuestra creatividad para encontrar diferentes soluciones a un mismo problema.
 
-Así que sientete libre de proponer tus soluciones si quieres. ¡No hay límite de pull request!
+Así que sientete libre de proponer tus soluciones si quieres. 
+¿Ves alguna errata?
+¡No hay límite de pull request!
+
+Happy coding!
+
+[]: # Language: markdown
+[]: # Path: README.md
