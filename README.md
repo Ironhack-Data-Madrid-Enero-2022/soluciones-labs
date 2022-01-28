@@ -9,7 +9,4 @@ Así que sientete libre de proponer tus soluciones si quieres.
 ¿Ves alguna errata?
 ¡No hay límite de pull request!
 
-Happy coding!
-
-[]: # Language: markdown
-[]: # Path: README.md
+Happy coding :rocket: :rocket:!
